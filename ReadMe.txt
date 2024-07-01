@@ -1,0 +1,1 @@
+12 is a .csv file and Untitled2.ipynb is main file
